@@ -25,7 +25,8 @@
 ### 💻 Programming Languages
 
 - Python, Java, SQl
-  --
+ 
+  ---
 ### 🤖 AI / ML & Data Science
 
 - Scikit-learn, NumPy, Pandas  
