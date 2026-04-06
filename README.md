@@ -48,10 +48,6 @@
 ---
 
 ### ⚙️ Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
 - Jupyter Notebook  
 - CI/CD Basics  
 
