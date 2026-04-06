@@ -23,14 +23,10 @@
 ## 🛠️ Tech Stack:
 
 ### 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>
 
+- Python, Java, SQl
+  --
 ### 🤖 AI / ML & Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
 
 - Scikit-learn, NumPy, Pandas  
 - NLP, Deep Learning  
